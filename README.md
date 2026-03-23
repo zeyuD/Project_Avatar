@@ -1,4 +1,4 @@
-# Project_Avatar
+# Project_Avatar (WIP)
 
 
 A real-time pixel art avatar pipeline that converts a photo into an animated avatar driven by webcam motion capture. Designed as a modular, game-engine-agnostic system with a web demo, Python prototype, and Godot 4 export target.
@@ -197,8 +197,8 @@ At runtime, idle behavior (gesture timing, blink rate, head tilt) is driven by t
 
 - [x] MediaPipe capture + joint angle extraction
 - [x] Python Pygame demo
-- [x] Color-based photo-to-avatar mapping
-- [x] Avatar config JSON schema
+- [ ] Color-based photo-to-avatar mapping
+- [ ] Avatar config JSON schema
 - [ ] Web demo (PixiJS + MediaPipe WASM)
 - [ ] Stable Diffusion pixel art generation pipeline
 - [ ] Spine2D skeletal mesh integration
@@ -222,5 +222,5 @@ Pull requests welcome. For major changes, please open an issue first to discuss 
 
 ## License
 
-MIT
+<!-- MIT -->
 
