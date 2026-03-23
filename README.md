@@ -50,7 +50,7 @@ Output Targets
 
 ### Tested Packages
 
-- Python 3.14
+- Python 3.12
 - Node.js 18+ (for web demo)
 - A webcam
 
