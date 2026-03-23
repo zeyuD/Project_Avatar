@@ -1,4 +1,5 @@
 ### Created by Zeyu Deng on 2026-03-22
+# A generic body with a skeleton: idle breathing, walk cycle, jump pose.
 
 #!/usr/bin/env python3
 """
@@ -380,7 +381,6 @@ def draw_hud(surf: pygame.Surface, avatar: Avatar, font: pygame.font.Font) -> No
 
 def main() -> None:
     pygame.init()
-    pygame.font.init()
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
     pygame.display.set_caption("Avatar Demo — Phase 1: Skeleton")
     clock = pygame.time.Clock()
