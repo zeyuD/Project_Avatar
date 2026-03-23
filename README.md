@@ -48,9 +48,9 @@ Output Targets
 
 ## Quickstart
 
-### Prerequisites
+### Tested Packages
 
-- Python 3.12+
+- Python 3.14
 - Node.js 18+ (for web demo)
 - A webcam
 
